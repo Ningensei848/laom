@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklaom=self.webpackChunklaom||[]).push([[991],{3885:function(e){e.exports=JSON.parse('{"permalink":"/","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"this is my blog (and this is sample text)","blogTitle":"My Blog"}')}}]);

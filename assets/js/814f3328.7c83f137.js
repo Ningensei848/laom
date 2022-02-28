@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklaom=self.webpackChunklaom||[]).push([[535],{5641:function(l){l.exports=JSON.parse('{"title":"All our posts","items":[{"title":"Welcome","permalink":"/welcome"},{"title":"MDX Blog Post","permalink":"/mdx-blog-post"},{"title":"Long Blog Post","permalink":"/long-blog-post"},{"title":"First Blog Post","permalink":"/first-blog-post"}]}')}}]);
